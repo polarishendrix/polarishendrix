@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @polarishendrix
+- 👀 I’m interested in PERL (Practical Extracting and Reporting Language)
+- 🌱 I’m currently learning whatever I don't already know
+- 💞️ I’m looking to collaborate on any PERL Development
+- 📫 How to reach me polarishendrix@gmail.com
