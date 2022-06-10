@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @polarishendrix
-- 👀 I’m interested in PERL (Practical Extracting and Reporting Language)
-- 🌱 I’m currently learning whatever I don't already know
-- 💞️ I’m looking to collaborate on any PERL Development
-- 👨‍🔧 I'm looking for a job as a PERL programmer
+- 👋 Hi, I’m Polaris Hendrix
+- 👀 I’m interested in C++
+- 💞️ I’m looking to collaborate on any C++ Development
+- 👨‍🔧 Considering part-time C++ opportunities
 - 📫 How to reach me polarishendrix@gmail.com
